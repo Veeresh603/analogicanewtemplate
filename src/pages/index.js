@@ -16,7 +16,7 @@ import CallToActionFour from "../components/CallToActionFour";
 import SubscribeOne from "../components/SubscribeOne";
 
 const HomePage = () => (
-  <Layout pageTitle="Kipso - React Next Online Education Learning & LMS Template">
+  <Layout pageTitle="Analogica Online Courses">
     <Topbar />
     <NavOne />
     <SliderOne />
