@@ -13,7 +13,7 @@ class CallToActionThree extends Component {
               <div className="cta-three__content">
                 <div className="block-title text-left">
                   <h2 className="block-title__title">
-                    Benefits of learning with kipso
+                    Benefits of learning with Analogica
                   </h2>
                 </div>
                 <p className="cta-three__text">
