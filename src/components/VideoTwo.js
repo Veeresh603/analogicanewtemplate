@@ -22,7 +22,7 @@ export default class VideoTwo extends Component {
             <div className="col-lg-7">
               <div className="video-two__content">
                 <h2 className="video-two__title">
-                  Kipso one & only <br />
+                  Analogica one & only <br />
                   mission is to extend <br />
                   your knowledge base
                 </h2>
